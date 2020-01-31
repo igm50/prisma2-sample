@@ -1,0 +1,7 @@
+{
+  "name": "prisma2-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jintz <keisuke.igimi@gmail.com>",
+  "license": "MIT"
+}
